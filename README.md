@@ -2,6 +2,7 @@
 This project analyzes a publicly available dataset of app ratings from the Google Play Store using Python and Pandas. The project includes code for loading and cleaning the data, calculating basic statistics, creating visualizations, and drawing conclusions based on the analysis.
 
 Getting Started
+
 To get started with this project, you will need to download the dataset from Kaggle and have Python and Pandas installed on your machine.
 
 # Once you have downloaded the dataset, you can load it into a Pandas DataFrame using the following code:
